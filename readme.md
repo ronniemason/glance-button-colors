@@ -1,5 +1,9 @@
 # Glance Button Colors
 
+Customize Zen Browser's floating Glance button colors.
+
+![Glance Button Colors preview](image.png)
+
 Glance Button Colors lets you customize Zen Browser's floating Glance controls.
 
 Zen's workspace theme colors can sometimes make the Glance buttons difficult to read. This mod lets you set your own icon color, button background, hover background, opacity, border, and shadow.
@@ -28,6 +32,3 @@ This mod targets Zen's floating Glance controls using:
 
 ```css
 .zen-glance-sidebar-container
-```
-
-If Zen changes its internal Glance markup in a future update, this mod may need an update.
